@@ -1,0 +1,23 @@
+{
+  "name": "web_task1",
+  "version": "1.0.0",
+  "description": "RESTful API for managing a list of books using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneen-elghawy/web_Task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haneen-elghawy/web_Task1/issues"
+  },
+  "homepage": "https://github.com/haneen-elghawy/web_Task1#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
